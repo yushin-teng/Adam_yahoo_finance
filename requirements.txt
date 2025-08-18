@@ -1,0 +1,7 @@
+﻿yfinance
+pandas
+numpy
+matplotlib>=3.8
+python-dateutil
+requests
+beautifulsoup4
