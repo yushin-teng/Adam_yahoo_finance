@@ -5,3 +5,7 @@ matplotlib>=3.8
 python-dateutil
 requests
 beautifulsoup4
+python-dotenv
+gspread
+google-api-python-client
+google-auth
